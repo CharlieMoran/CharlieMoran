@@ -4,7 +4,6 @@ My name is Charlie (he/him/she/her),
 
 They call me BananaMan.
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/yModCU1OVHY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 I've been coding for 20+ years.
 This isn't my main GitHub but will be using this to display my journey at pursuit.org .
