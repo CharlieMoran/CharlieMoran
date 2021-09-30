@@ -3,7 +3,8 @@
 My name is Charlie (he/him/she/her),
 
 
-![bananaman](https://user-images.githubusercontent.com/40501376/135515223-98e3c94a-9329-4a1a-9d8e-bd7fc4f2c41b.png)
+![bananaman](https://user-images.githubusercontent.com/40501376/135515555-54b3a53d-7335-4bf6-8a79-316fd59ca81b.png)
+
 
 They call me BananaMan.
 
