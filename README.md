@@ -11,18 +11,18 @@ They call me BananaMan.
 I've been coding for 20+ years.
 This isn't my main GitHub but will be using this to display my journey at pursuit.org .
 
-I am:
-Genderfluid,
-an Autodidact,
-a Craftsman,
-a Musician
-a Chef,
-an Artist,
-a Mr.Fixit,
-a Mentor,
-a Brutally Honest Person,
-a Social Butterfly,
-a Gamer
+I am:<br />
+Genderfluid,<br />
+an Autodidact,<br />
+a Craftsman,<br />
+a Musician,<br />
+a Chef,<br />
+an Artist,<br />
+a Mr.Fixit,<br />
+a Mentor,<br />
+a Brutally Honest Person,<br />
+a Social Butterfly,<br />
+a Gamer<br />
 
 
 I am open to collabs, looking for a tutors/discords to refine my skill to a honed edge.
