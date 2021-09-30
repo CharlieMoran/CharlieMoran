@@ -2,8 +2,7 @@
 
 My name is Charlie (he/him/she/her),
 
-
-![bananaman](https://user-images.githubusercontent.com/40501376/135515555-54b3a53d-7335-4bf6-8a79-316fd59ca81b.png)
+<img src="https://user-images.githubusercontent.com/40501376/135515555-54b3a53d-7335-4bf6-8a79-316fd59ca81b.png" alt="Banana Man" width="100"/>
 
 
 They call me BananaMan.
